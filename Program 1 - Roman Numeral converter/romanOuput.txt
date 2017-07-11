@@ -1,0 +1,16 @@
+        R O M A N    N U M E A L   C O N V E R T E R
+
+                           by
+
+                      Ryan Lachman
+
+                Numeral         Decimal
+
+                  MCXIV            1114
+                 CCCLIX             359
+                MDCLXVI            1666
+           MMMCMLXXXITV              -1
+
+
+
+
